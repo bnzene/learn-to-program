@@ -24,3 +24,4 @@ while input > ''
   input = gets.chomp
   end
 end
+puts 'Youth these days. Atrocious manners. You\'re out of my will!'
